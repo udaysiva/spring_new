@@ -14,7 +14,7 @@ public class SpringRestController {
  public  String hello(@PathVariable String name) {
  String result="Hello "+name; 
  
- //HELLOOOO
+ String test="Hello BAe";
  return result;
  }
 }
